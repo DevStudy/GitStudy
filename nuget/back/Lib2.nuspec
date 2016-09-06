@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DemoLib</id>
+    <version>1.1.5</version>
+    <authors>atwind</authors>
+    <licenseUrl>https://github.com/Wheelies/MarkdownLog/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Wheelies/MarkdownLog</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Lightweight .NET component for programmatically generating Markdown. Useful for producing rich diagnostic logs with minimal dependencies.</description>
+    <copyright>Copyright 2014 BlackJet Software Ltd</copyright>
+    <tags>markdown diagnostics logging pcl</tags>
+  </metadata>
+  <files>
+    <file src="..\sources\Demo\Lib\bin\Release\*.*" target="lib\net4.5" />
+  </files>
+</package>
